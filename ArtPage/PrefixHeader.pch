@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  ArtPage
+//
+//  Created by 华杉科技 on 2018/9/20.
+//  Copyright © 2018年 曹海洋. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define MAS_SHORTHAND
+#define MAS_SHORTHAND_GLOBALS
+
+#import "CommonDefine.h"
+#import "CommonClass.h"
+#import "CHYCategory.h"
+#import "FMDB.h"
+#import "Masonry.h"
+#import "CHYDatabaseManager.h"
+
+#endif /* PrefixHeader_pch */
